@@ -87,7 +87,7 @@ ng serve --port 8080
 ```
 
 ### Client to complete a task
-Please refer to https://github.com/poketapp/solana-react
+Please refer to [https://github.com/poketapp/solana-react](https://github.com/PerksofbeingVaibhav/react-model-poketapp.git)
 
 ### Entrypoint
 
